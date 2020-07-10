@@ -12,3 +12,8 @@ If you have knowledge of the german language you can find a really nice youtube 
 
 This one gives also a good start in english language [-->](https://www.youtube.com/playlist?list=PLw5pRu2B6YFUkX9nrhc4gCVkxm6fYS_GY)
 
+## Getting Raspberry Ready
+Have a look [here](https://www.regall.nl/musicbot/)
+
+* `<sudo apt install libssl-dev openssl git libopus-dev libffi-dev libsodium-dev>`
+* `<sudo apt install ffmpeg x264>`
