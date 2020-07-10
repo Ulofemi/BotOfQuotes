@@ -15,5 +15,5 @@ This one gives also a good start in english language [-->](https://www.youtube.c
 ## Getting Raspberry Ready
 Have a look [here](https://www.regall.nl/musicbot/)
 
-* `<sudo apt install libssl-dev openssl git libopus-dev libffi-dev libsodium-dev>`
-* `<sudo apt install ffmpeg x264>`
+* `sudo apt install libssl-dev openssl git libopus-dev libffi-dev libsodium-dev`
+* `sudo apt install ffmpeg x264`
