@@ -14,7 +14,7 @@ import logging.config
 # Variables
 ############################
 projectDir = '/home/pi/pipy_bot/'
-quotesDir = 'Zitate'
+quotesDir = 'quote'
 seperator = '/'
 
 TOKEN = 'TOPSECRET'
