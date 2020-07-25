@@ -21,9 +21,9 @@ Have a look [here](https://www.regall.nl/musicbot/)
 ## Some Notes
 https://www.gngrninja.com/code/2017/3/24/python-create-discord-bot-on-raspberry-pi
 
-`sudo apt-get install libssl-dev` \n
-`sudo apt-get install libffi-dev` \n
-`sudo apt-get install libsqlite3-dev` \n
-`sudo apt install python3-pip` \n
-`sudo apt install python3-cffi` \n
-`sudo pip3 install discord.py[voice]` \n
+`sudo apt-get install libssl-dev`  
+`sudo apt-get install libffi-dev`  
+`sudo apt-get install libsqlite3-dev`  
+`sudo apt install python3-pip`  
+`sudo apt install python3-cffi`  
+`sudo pip3 install discord.py[voice]`  
